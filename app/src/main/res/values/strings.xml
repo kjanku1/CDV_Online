@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CDV Online</string>
+    <string name="preferences">Ustawienia</string>
+    <string name="about">Info</string>
+    <string name="day">1 dzień</string>
+    <string name="week">W</string>
+    <string name="dane_logowania">Login i hasło</string>
+</resources>
